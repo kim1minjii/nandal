@@ -11,15 +11,15 @@
 정보에 대한 접근성을 높여 이용자에게는 취향에 맞는 관광 정보를 제공하고  
 지역사회에는 관광 정보에 대한 접근성을 높여 지역발전에 기회를 높인다.  
 
-[System]
-AWS EC2 : CentOS 7
-DB
-AWS RDS :  sql Developer
-language
-java, jsp, javascript, jquery, html, css, bootstrap, sql
-was
-tomcat 9.0
-framework
+##System  
+AWS EC2 : CentOS 7  
+##DB  
+AWS RDS :  sql Developer  
+##language   
+java, jsp, javascript, jquery, html, css, bootstrap, sql  
+##was  
+tomcat 9.0  
+##framework   
 spring, mybatis, maven
 
 
